@@ -1,5 +1,8 @@
 Revision history for perl module MooseX::ExpiredAttribute
 
+NEXT
+    - few doc fixes
+
 0.021 2014-02-11
     - Many small fixes (doc, git repo info, Changes file...)
     - improved test - added second expired attribute in class.

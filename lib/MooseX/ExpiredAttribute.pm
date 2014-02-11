@@ -85,12 +85,13 @@ and even by this way:
 
 =head1 DESCRIPTION
 
-This module allow to create expired attributes with auto-rebuilding feature
-after elapsed time. Goal of module is attrubutes which can be able to have the
-time-varying value. For example some configs can be changed by user during
-program runtime and wished to be reread by program every one minute for example. All
-that is required from you to add trait to attribute and to add 'expires' option
-(in fractal seconds). An attribute should have a builder too!
+This module allows to create expired attributes with auto-rebuilding feature
+after elapsed time. The goal of module is attrubutes which can be able to have
+the time-varying value. For example some configs can be changed by user during
+program runtime and wished to be reread by program every one minute for example.
+All that is required from you to add the trait to an attribute and to add the
+'expires' option (may be fractal seconds). An attribute should have a builder
+too!
 
 =head1 SEE ALSO
 
