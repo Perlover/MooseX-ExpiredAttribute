@@ -22,4 +22,4 @@ no_index:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/Perlover/Perlover-MooseX-ExpiredAttribute.git
-version: 0.01
+version: 0.02
