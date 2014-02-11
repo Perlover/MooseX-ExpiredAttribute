@@ -1,0 +1,9 @@
+*.bak
+/Makefile
+/Makefile.old
+*.tar.gz
+/MooseX-ExpiredAttribute-*/
+/blib/
+pm_to_blib
+/MYMETA.json
+/MYMETA.yml
